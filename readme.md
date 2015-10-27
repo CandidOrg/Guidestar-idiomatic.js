@@ -20,7 +20,7 @@ I do not intend to impose my style preferences on other people's code or project
  
  * [Translations](translations.md)
  * [Tools](tools.md)
- * [Preface](prefacemd)
+ * [Preface](preface.md)
  * [Whitespace](#whitespace)
  * [Beautiful Syntax](#spacing)
  * [Type Checking (Courtesy jQuery Core Style Guidelines)](#type)
