@@ -19,8 +19,8 @@ I do not intend to impose my style preferences on other people's code or project
 ## Table of Contents:
  
  * [Translations](translations.md)
- * [Tools](#tools)
- * [Preface](#preface)
+ * [Tools](tools.md)
+ * [Preface](prefacemd)
  * [Whitespace](#whitespace)
  * [Beautiful Syntax](#spacing)
  * [Type Checking (Courtesy jQuery Core Style Guidelines)](#type)
