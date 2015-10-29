@@ -23,7 +23,7 @@ I do not intend to impose my style preferences on other people's code or project
  * [Tools](tools.md)
  * [Preface](preface.md)
  * [Whitespace](whitespace.md)
- * [Syntax](spacing.md)
+ * [Syntax](syntax.md)
  * [Type Checking (Courtesy jQuery Core Style Guidelines)](type_checking.md)
  * [Conditional Evaluation](conditional_evaluation.md)
  * [Practical Style](practical_style.md)
