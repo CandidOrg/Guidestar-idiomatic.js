@@ -1,4 +1,4 @@
-5. <a name="practical">Practical Style</a>
+##Practical Style
 
 ```javascript
 
