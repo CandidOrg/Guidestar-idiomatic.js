@@ -1,4 +1,4 @@
-Misc
+##Misc
 
 This section will serve to illustrate ideas and concepts that should not be considered dogma, but instead exists to encourage questioning practices in an attempt to find better ways to do common JavaScript programming tasks.
 
