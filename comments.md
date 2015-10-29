@@ -1,4 +1,4 @@
-Comments
+##Comments
 
 * Comments SHOULD answer WHAT the line/s in question are doing
 * Comments should be placed before the first statment in a block of code that explain that block of code and are allowed sparingly inside of the block of code.
